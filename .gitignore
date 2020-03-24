@@ -1,58 +1,10 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-
-### VS Code ###
+#PASTAS
 .vscode/
-
-# directories
 .settings/
-.target/
-.idea/
-.worksheet/
-bin/
-build/
-dist/
-logs/
-node_modules/
-out/
 target/
-tmp/
 
-# files
-*.iml
+#ARQUIVOS
 */.DS_Store
-\#*
-.cache
 .classpath
-.DS_Store
-.history
-.idea
-.idea_modules
 .project
-RUNNING_PID
+.gitignore

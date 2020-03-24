@@ -1,1 +1,1 @@
-# backend-api-springboot
+# API REST (SpringBoot + JPA)
