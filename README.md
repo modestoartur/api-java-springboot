@@ -9,19 +9,19 @@ Application to demonstrate an simple API with Java and SpringBoot.
 
 OR
 
-1.  Run Maven to read the POM
+1.  Run Maven to read the ```POM.xml```
 
     ```bash
     mvn install
     ```
-2.  Run the Jar file
+2.  Run the ```backend-0.0.1-SNAPSHOT.jar``` file
 
     ```bash
     java -jar target/backend-0.0.1-SNAPSHOT.jar
     ```
 OR
 
-1.  Run
+1.  Run Spring Boot app using Maven 
 
     ```bash
     mvn spring-boot:run
